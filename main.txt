@@ -1,0 +1,16 @@
+Hi <Enter name>!
+We went through the website you provided. Most of the things we need are already implemented there. 
+However we need to implement the system for a school. As we are tight on budget we cannot bear the cost of in house development for deployment of a single system. It would be great if you could provide us the system for a school. 
+Here are the requirements: 
+1. List of students with in-out time and ability to search by data (Implemented).
+2. List of in-out time for a specific student sorted by date (implemented).
+3. Ability to search student by class and section along with id (Need to implement) 
+--> the existing website already has the system implemented. We only need two extra filters: class, section.
+4. Register/Re-register (in case of card lost) and de-register a student, staff member and teacher
+5. Ability to search users by role (Staff/Teacher/Student).
+These are the basic requirements we need for this project. 
+It would be helpful if you could modify the existing system a bit to meet our requirements. Please let us now the feasibility of the requirements and the extra charge you need for the implementation. 
+Thanks and Regards, 
+Sumanta Banerjee
+Pritam Sahu
+Command
